@@ -1,2 +1,2 @@
 # hello-world
-This repository is for practicing the GitHub Flow.
+Hi! My name is Carly. This repository is an assignment for my IDT554 course.
